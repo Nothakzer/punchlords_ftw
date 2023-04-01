@@ -8,6 +8,15 @@ export default function Home() {
       <Head>
         <title>Punchlords</title>
         <link rel="icon" href="/favicon.ico" />
+    
+    <style> 
+    body{
+    
+    background-image: url("https://us-tuna-sounds-images.voicemod.net/a1c8e77e-affa-498b-b71e-fa549a58ceec-1674680382680.jpg")
+    background-size: cover;
+    
+    }
+    </style>
       </Head>
 
       <main>
