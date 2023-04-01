@@ -6,14 +6,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Punchlords<title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        <Header title="Join the discord fr" />
+        <p className="description"> <a href= https://discord.gg/xn3K28W9eu><button>Discord<a/>
         </p>
       </main>
 
