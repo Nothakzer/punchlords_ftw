@@ -9,19 +9,19 @@ export default function Home() {
         <title>Punchlords</title>
         <link rel="icon" href="/favicon.ico" />
     
-    <style> 
-    body{
-    
-    background-image: url("https://us-tuna-sounds-images.voicemod.net/a1c8e77e-affa-498b-b71e-fa549a58ceec-1674680382680.jpg")
-    background-size: cover;
-    
-    }
+    <style>
+        body {
+              background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/old-wise-wizard-david-luebbert.jpg");
+              background-repeat: no-repeat;
+              background-size: cover;
+              background-attachment: fixed;
+             } 
     </style>
       </Head>
 
       <main>
         <Header title="Join the discord fr" />
-        <p className="description"> xn3K28W9eu is da discord
+        <p className="description"> <bold>xn3K28W9eu</bold> is da discord
         </p>
       </main>
 
