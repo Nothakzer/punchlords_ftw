@@ -8,15 +8,6 @@ export default function Home() {
       <Head>
         <title>Punchlords</title>
         <link rel="icon" href="/favicon.ico" />
-    
-    <style>
-        body {
-              background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/old-wise-wizard-david-luebbert.jpg");
-              background-repeat: no-repeat;
-              background-size: cover;
-              background-attachment: fixed;
-             } 
-    </style>
       </Head>
 
       <main>
