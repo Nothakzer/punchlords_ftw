@@ -15,7 +15,16 @@ export default function Home() {
         <p className="description"> <a href= "https://discord.gg/xn3K28W9eu"><img src= "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" width= "100" height= "80"></img></a> 
         </p>
       </main>
-
+        <ul id="mynavbar">
+        <strong>
+        <li><a href="#">The Team</a>
+            <ul>
+                
+            <a href=https://www.sololearn.com/Profile/19773766/?ref=apphref = "#">Jack {The Watercoder} 
+             
+            </ul>
+         </li>
+         </strong>
       <Footer />
     </div>
   )
