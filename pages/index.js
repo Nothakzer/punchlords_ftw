@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="𝐏𝐔𝐍𝐂𝐇𝐋𝐎𝐑𝐃𝐒" />
         <p className="description"> <bold>xn3K28W9eu</bold> is da discord
         </p>
-      <img src="https://ih1.redbubble.net/image.4715657043.8489/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="This supposed to be a dollar sign" width="100" height="120"></img>
+      <img src="https://i.redd.it/i-made-some-villains-for-my-next-dnd-campaign-shadow-wizard-v0-1jexx78luvka1.png" alt="This supposed to be a dollar sign" width="100" height="120"></img>
       </main>
 
       <Footer />
