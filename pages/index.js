@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Join the discord fr" />
+        <Header title="𝐏𝐔𝐍𝐂𝐇𝐋𝐎𝐑𝐃𝐒" />
         <p className="description"> <bold>xn3K28W9eu</bold> is da discord
         </p>
       </main>
