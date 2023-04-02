@@ -20,7 +20,7 @@ export default function Home() {
         <li><a href="#">The Team</a>
             <ul>
                 
-            <a href="https://www.sololearn.com/Profile/19773766/?ref=app">Jack {The Watercoder}</a>
+            <a href="https://www.sololearn.com/Profile/19773766/?ref=app">Jack</a>
              
             </ul>
          </li>
