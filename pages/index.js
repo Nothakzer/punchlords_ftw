@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="𝐏𝐔𝐍𝐂𝐇𝐋𝐎𝐑𝐃𝐒" />
-        <p className="description"> <a href= "https://discord.gg/xn3K28W9eu"><img src= "https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"></a> for da discord
+        <p className="description"> <a href= "https://discord.gg/xn3K28W9eu"><img src= "https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"></img></a> 
         </p>
       </main>
 
