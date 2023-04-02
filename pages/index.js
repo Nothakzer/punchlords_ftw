@@ -23,6 +23,7 @@ export default function Home() {
             <a href="https://www.sololearn.com/Profile/19773766/?ref=app">Jack</a>
              
             </ul>
+         </ul>
          </li>
          </strong>
     
