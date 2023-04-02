@@ -24,8 +24,9 @@ export default function Home() {
              
             </ul>
          </li>
-         </ul>
          </strong>
+         </ul>
+         
     
       </main>
    
