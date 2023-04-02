@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="𝐏𝐔𝐍𝐂𝐇𝐋𝐎𝐑𝐃𝐒" />
         <p className="description"> <bold>xn3K28W9eu</bold> is da discord
         </p>
-      <img src="https://www.pngmart.com/files/10/Green-Dollar-Sign-PNG-File.png" alt="This supposed to be a dollar sign" width="100" height="120"></img>
+      <img src="https://ih1.redbubble.net/image.4715657043.8489/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="This supposed to be a dollar sign" width="100" height="120"></img>
       </main>
 
       <Footer />
