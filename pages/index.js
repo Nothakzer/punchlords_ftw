@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="𝐏𝐔𝐍𝐂𝐇𝐋𝐎𝐑𝐃𝐒" />
-        <p className="description"> <bold>xn3K28W9eu</bold> is da discord
+        <p className="description"> <a href= "https://discord.gg/xn3K28W9eu"> xn3K28W9eu </a> is da discord
         </p>
       </main>
 
