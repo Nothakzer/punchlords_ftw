@@ -9,7 +9,13 @@ export default function Home() {
         <title>Punchlords</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+        
+    <style>
+         body {
+               background-image: url('https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-38.jpg');
+              }
+   </style>
+    
       <main>
         <Header title="𝐏𝐔𝐍𝐂𝐇𝐋𝐎𝐑𝐃𝐒" />
         <p className="description"> <a href= "https://discord.gg/xn3K28W9eu"><img src= "https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width= "100" height= "100"></img></a> 
