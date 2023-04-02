@@ -9,12 +9,6 @@ export default function Home() {
         <title>Punchlords</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-        
-    <style>
-         body {
-               background-image: url('https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-38.jpg');
-              }
-   </style>
     
       <main>
         <Header title="𝐏𝐔𝐍𝐂𝐇𝐋𝐎𝐑𝐃𝐒" />
