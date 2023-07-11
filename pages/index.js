@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
     
       <main>
-        <Header title="🇱​​🇮​​🇳​​🇰​​🇸​ ​🇨​​🇭​​🇦​​🇵​​🇪​​🇱​" />
+        <Header title="𝐋𝐢𝐧𝐤𝐬 𝐂𝐡𝐚𝐩𝐞𝐥​" />
         <p className="description"> <a href= "https://discord.gg/xn3K28W9eu"><img src= "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" width= "100" height= "80"></img></a></p> 
       </main>
    
