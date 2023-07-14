@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description"> <a href= ""><img src= "https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-qq8ggh79.png" width= "80" height= "80"></img></a></p>
 
       <button><a href="https://nordvpn.com/download/">Nord VPN Free</a></button>
-      <a href="https://protonvpn.com/download">Proton VPN</a>
+      <button><a href="https://protonvpn.com/download">Proton VPN</a></button>
       
       </main>
    
